@@ -1,0 +1,40 @@
+.blue {
+  color: #00f;
+}
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
+
+.yellow {
+  color: #ff0;
+}
+
+.purple {
+  color: purple;
+}
+
+.outer-container {
+  flex-direction: column;
+  align-items: center;
+  display: flex;
+}
+
+#country-list {
+  max-width: 1000px;
+  column-count: 3;
+  background-color: gray;
+  border: 3px solid #000;
+  border-radius: 5px;
+  list-style-type: none;
+}
+
+.list-item {
+  border: 1px solid #000;
+}
+
+/*# sourceMappingURL=index.4d663569.css.map */
